@@ -7,5 +7,5 @@
   "images": [
     { "id": 1, "imageUrl": "some comment", "postId": 1 },
     { "id": 2, "imageUrl": "some comment", "postId": 1 }
-  
+  ]
 }
