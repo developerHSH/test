@@ -1,12 +1,12 @@
 {
-  "posts": [
+  "products": [
     { "id": 1, "name": "Amouage", "price": 100000},
     { "id": 2, "name": "Dior", "price": 60000},
     { "id": 3, "name": "Creed Aventus", "price": 790000}
   ],
   "images": [
-    { "id": 1, "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTW0288QxIw1RrI0n7wz1BdUaUPGURdADDh0JdLFALOwQpw4cBH&usqp=CAU"},
-    { "id": 2, "imageUrl": "pictures"},
-    { "id": 3, "imageUrl": "https://salonparfumer.ru/media/files/27bfbe61ea9275243380119fdb71d0da.png.256x256_q95_box-18%2C13%2C481%2C476_crop.png"}
+    { "id": 1, "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTW0288QxIw1RrI0n7wz1BdUaUPGURdADDh0JdLFALOwQpw4cBH&usqp=CAU", "productId": 1},
+    { "id": 2, "imageUrl": "pictures", "prodyctId": 2},
+    { "id": 3, "imageUrl": "https://salonparfumer.ru/media/files/27bfbe61ea9275243380119fdb71d0da.png.256x256_q95_box-18%2C13%2C481%2C476_crop.png", "productId": 3}
   ]
 }
