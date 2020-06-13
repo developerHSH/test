@@ -1,0 +1,18 @@
+{
+  "userId": 1,
+  "id": 1,
+  "name": "Amouage",
+  "price": 10000
+},
+{
+  "userId": 2,
+  "id": 2,
+  "name": "Dior",
+  "price": 50000
+},
+{
+  "userId": 3,
+  "id": 3,
+  "name": "Frenhiet",
+  "price": 3400000
+}
