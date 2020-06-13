@@ -1,14 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "name": "Amouage", "price": 100000},
+    { "id": 2, "name": "Dior", "price": 100000},
+    { "id": 3, "name": "Savauge", "price": 100000}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "images": [
+    { "id": 1, "imageUrl": "some comment", "postId": 1 },
+    { "id": 2, "imageUrl": "some comment", "postId": 1 }
+  
 }
