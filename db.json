@@ -1,4 +1,5 @@
-[
+{
+  "products": [
     { "id": 1, "product_name": "Amouage",
      "price": 100000,
      "imageUrl": "https://salonparfumer.ru/media/files/27bfbe61ea9275243380119fdb71d0da.png.256x256_q95_box-18%2C13%2C481%2C476_crop.png",
@@ -20,4 +21,4 @@
      "description": "عطر  Creed"
     }
   ]
-
+}
