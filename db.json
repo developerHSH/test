@@ -5,7 +5,7 @@
     { "id": 3, "name": "Creed Aventus", "price": 790000}
   ],
   "images": [
-    { "id": 1, "imageUrl": "https://salonparfumer.ru/media/files/27bfbe61ea9275243380119fdb71d0da.png.256x256_q95_box-18%2C13%2C481%2C476_crop.png"},
+    { "id": 1, "imageUrl": "345"},
     { "id": 2, "imageUrl": "pictures"},
     { "id": 3, "imageUrl": "123"}
   ]
